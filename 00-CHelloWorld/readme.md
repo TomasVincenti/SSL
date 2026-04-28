@@ -4,3 +4,6 @@
 * **Apellido:** Vincenti
 * **Nombre:** Tomas Bautista
 
+## Resultados
+* Compilador: GCC, Version 15.2
+* Version de C: C23
